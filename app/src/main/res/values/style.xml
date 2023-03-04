@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="whiteTitle">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="chatHeadTitle">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/chat_head_title_color</item>
+    </style>
+
+    <style name="chatHeadMsg">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@color/chat_head_msg_color</item>
+    </style>
+
+    <style name="chatHeadTime">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">@color/chat_head_time_color</item>
+    </style>
+</resources>

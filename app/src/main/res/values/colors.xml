@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="divider_color">#f1f1f1</color>
+    <color name="received_bubble_bg">#ffffff</color>
+    <color name="sent_bubble_bg">#ebfedf</color>
+    <color name="sent_chat_msg_color">#000000</color>
+    <color name="received_chat_msg_color">#000000</color>
+    <color name="chat_msg_time_color">#999999</color>
+    <color name="light_green">#25D366</color>
+    <color name="teal_green">#128C7E</color>
+    <color name="teal_green_dark">#075E54</color>
+    <color name="chat_head_title_color">#111111</color>
+    <color name="chat_head_msg_color">#999999</color>
+    <color name="chat_head_time_color">#999999</color>
+
+</resources>

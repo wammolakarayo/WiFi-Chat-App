@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_0">5dp</dimen>
+    <dimen name="padding_1">10dp</dimen>
+    <dimen name="padding_2">15dp</dimen>
+    <dimen name="padding_3">20dp</dimen>
+    <dimen name="padding_4">30dp</dimen>
+    <dimen name="padding_5">40dp</dimen>
+
+    <dimen name="image_btn_padding">18dp</dimen>
+
+
+    <dimen name="action_bar_height">60dp</dimen>
+
+</resources>
